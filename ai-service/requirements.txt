@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pymupdf
+pdfplumber
+sentence-transformers
+xgboost
+pandas
+numpy
+psycopg2-binary
+sqlalchemy
+pgvector
+pydantic
+python-dotenv
